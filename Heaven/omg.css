@@ -1,0 +1,36 @@
+body {
+    background-color: rgb(211, 114, 114);
+    display: flex;
+justify-content: center;
+}
+
+section {
+    background-color: rgb(206, 109, 252);
+transition: all .48959s;
+}
+#penisinyourbutt { 
+    background-color: rgb(193, 127, 255);
+}
+.poopy {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    letter-spacing: 3;
+}
+section:hover {
+    background-color: pink;
+    cursor: crosshair;
+
+   
+}
+section:active {
+    outline: 8px double purple;
+}
+section {
+  display: inline-block;
+  vertical-align: top;
+    width: 100px;
+    height:auto;
+    padding:100px;
+    border:1px double black;
+    margin:25px;
+
+}

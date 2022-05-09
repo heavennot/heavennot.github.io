@@ -1,0 +1,30 @@
+
+
+.me {
+    background-color: rgb(87, 9, 124);
+transition: all .48959s;
+}
+#shitty{ 
+    background-color: rgb(255, 168, 127);
+}
+.no {
+    background-color: rgba(231, 78, 6, 0.847);
+}
+section:hover {
+    background-color: rgb(138, 37, 54);
+    cursor: crosshair;
+
+   
+}
+section:active {
+    outline: 8px double purple;
+}
+section {
+
+    width: 1000px;
+    height: 1px;
+    padding:80px;
+    border:3px double black;
+    margin:15px;
+
+}

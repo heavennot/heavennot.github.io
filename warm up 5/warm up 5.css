@@ -1,0 +1,33 @@
+h1 {
+    text-align: center; 
+    color: aqua;
+}
+
+
+a {
+margin:50px;
+text-decoration: none;
+}
+
+
+header{   
+text-align: center;
+color: darkblue;
+}
+
+a:hover{
+color: rgb(236, 216, 83);
+text-decoration: underline;
+}
+
+main {
+    margin: 58px;
+text-align: center;
+border-top: 1px solid blue;
+border-bottom: 1px solid blue;
+}
+
+footer {
+text-align: center;
+margin: 43px;
+}
